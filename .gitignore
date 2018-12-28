@@ -61,3 +61,7 @@ fabric.properties
 /.project
 /.springBeans
 /WebRoot/upload/temp
+/WebRoot/WEB-INF/lib
+/WebRoot/plug-in
+/.settings
+/.mymetadata
